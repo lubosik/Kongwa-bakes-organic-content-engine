@@ -206,7 +206,7 @@ Shadows use crust at low alpha (`#2e1c1229`, `#2e1c121a`). Radii: 10px, 18px, pi
 - A sticky dark basket bar ("0 items £0.00 / Checkout") sits under the hero on every page.
 - Product photography: square 1200x1200, mostly shot in a home kitchen on a dark speckled granite worktop with white plates and window light; boxed items in kraft boxes. Country loaf is the only portrait shot (1400x1867).
 - Real packaging (packed-orders photo): white boxes with round kraft KB stickers, a mint-and-pink striped muffin box with window, kraft stand-up pouches with a white printed label, kraft paper bags with windows.
-- THINK: the hero poster, hero video, OG card and the `packaging/label.jpg` kraft-band image look AI-generated (golden haze, perfect steam, glowing house shape in the loaf). Carrot and walnut, lemon drizzle and Guinness marble photos have a different wooden-table, golden-light style and may also be generated. The granite-worktop set, custom cake gallery and the three "proof" photos look like genuine phone photos. For short-form video, the real photos are the credible material; the generated ones should not be passed off as real bakes.
+- **Confirmed by Bosi, 18 Oct 2026: every photo and the hero video on the site are real Kongwa Bakes bakes.** All of `assets/library/website/` is cleared for the product half of videos. (An earlier crawler guess that some looked AI-generated was wrong and has been removed.)
 
 ---
 
@@ -267,7 +267,7 @@ Note the handle mismatch: Instagram `@kongwabakes` vs TikTok `@kongwa.bakes`.
 15. **OG image** is the same `/og/home.jpg` on all 16 pages.
 16. **Duplicate image:** `/images/cakes/custom-cake.jpg` and `/images/menu/custom-cake.jpg` are byte-identical.
 17. THINK: Guinness Marble Cake copy says "Marbled through a vanilla swirl" but the photo shows a uniform dark crumb.
-18. THINK: The "Wrapped as carefully as it's baked" kraft-band image does not match the real packaging in the proof photo (real orders use boxes, pouches, stickers and printed labels).
+18. The kraft-band packaging photo and the packed-orders photo show two real packaging styles (kraft sleeve with KB band; boxes, pouches, stickers and printed labels).
 19. Heart Cake is sold in 8/10/12 inch with the same "serves about" counts as round cakes.
 
 ---
