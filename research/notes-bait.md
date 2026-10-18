@@ -181,3 +181,102 @@ Mechanics with 3 or more examples, ranked by median multiple:
   - W&N "DM us screenshot for discount".
   - deli_postres "minimum 2 pastries per order to play".
 
+## THINK (our inferences, labelled, to be tested)
+
+### T1. Mechanics that repeat across 3 or more examples with the highest multiples
+
+1. **Counter skit (median 180x).**
+   - Big multiples, but every example puts real staff or customers on camera.
+   - Several examples depend on a child or a real boss.
+   - THINK: the multiple is driven by relatable people, so it is the weakest fit for faceless Kongwa content. Only usable with consenting family voices off camera.
+2. **Borrowed trend or game where the product is the payoff (53x).**
+   - THINK: works because the first second is a format people already know.
+   - The bakery version keeps the game but makes the "loser" or the last door the bake. Examples: a trend countdown, a cake box roulette, "which box has the real cake".
+3. **Fake jeopardy then reveal (44x).**
+   - The W&N toy-Bugatti structure maps directly onto concept B (toy van and real cake).
+   - THINK: keep the jeopardy on the cake and make the toy obvious early, so CAP 2.1 and 4.2 are not stretched.
+4. **Withheld-detail stall story with stakes on the bake (34x).**
+   - THINK: the strongest UK, small-bakery and order-adjacent evidence we found. bake16.17 is a Bristol market baker at 25x to 39x her own median, three times in six weeks.
+   - The hook withholds one fact: what was ordered, or will it sell out. The payoff is real bakes leaving the table.
+   - Fits our gate perfectly, needs no AI, and can be filmed hands-only (gloved hands arranging, boxes handed over). Kongwa angles: Saturday collection and Aylesford Priory market.
+5. **Hands-only tease (32x on TikTok).**
+   - Scrub Daddy shows the problem with hands only, withholds the product and pays it off a week later (54x).
+   - THINK: a two-post pattern for a new bake or the Friday Treat Box launch.
+6. **Parody with brand pulsing (20x).**
+   - THINK: this is the research-backed way to place the brand. Liquid Death shows the can at 2.6s and twice more.
+   - That matches Teixeira 2010 (pulsing cuts skipping) and Teixeira 2014 (entertainment after the brand helps purchase intent; entertainment before it does not).
+   - Our KB label in the first second is therefore not a compromise; it is what the evidence favours.
+7. **FOOH and CGI (5x for brands).**
+   - The high multiples are studio and agency portfolio accounts, not food sellers.
+   - For food brands FOOH gave 0.8x to 5.3x. OTTO, a small burger bar, got 4.5x with a CGI burger on its own street, the closest analogue to concept C.
+   - THINK: worth one test, not a pillar. It costs credits, and the food in it is CGI, so the real-bake product half must follow it.
+8. **Pause challenge (2x for bakeries).**
+   - THINK: W&N's 1023x seems to come from the **single hidden reward frame**: a "you did it" frame plus an offer and DM instruction, with "2 frames off" teasers either side. The outline game alone does not explain it.
+   - Small bakeries copied the outline but not the reward frame and got 1.4x to 4.2x.
+   - Concept A should add a one-frame reward with a real offer (for example "screenshot this frame for a free cinnamon knot with Saturday's order") and keep real food on screen the whole time.
+
+### T2. Switch timing
+
+THINK: copy the measured W&N shape.
+
+- Hook text from frame 1.
+- Bait of 8 to 14s, with the switch at roughly 50 to 65% of runtime.
+- Hard cut or reveal.
+- 6 to 7.5s of product in 3 to 5 shots.
+- A 1.5 to 3s end card with a date ("Orders close Thursday 5pm").
+
+Short pause-style loops (6s) are the exception: there the product is in every frame. Very late switches (above 80% of runtime) appear only in tease or story formats, where the delay is the point.
+
+### T3. What works faceless
+
+These mechanics worked with no face:
+
+| Mechanic | Faceless form | Multiples |
+|---|---|---|
+| Hands-only tease | hands only | Scrub Daddy, 9.6x to 32x |
+| Topical meme text over own B-roll | no people | Ryanair, 17x |
+| FOOH | no people | 0.8x to 5x for food brands |
+| Pause challenge | no people | 1.4x to 4.2x for bakeries |
+| Hands-only bakery POV or transition | hands only | 3.5x to 4.3x |
+
+The stall story can be shot hands-only. That is an untested adaptation: bake16.17 shows her face.
+
+Everything above 40x needed people on camera:
+
+- counter skit;
+- borrowed trend;
+- fake jeopardy;
+- W&N pause challenge.
+
+THINK: for those, use Mum's consented hands, family voices off camera, a consistent synthetic character labelled as AI, or a toy stand-in (the W&N toy Bugatti shows the toy can be the star).
+
+### T4. UK compliance notes for these mechanics (applying the Golf Fang ruling)
+
+- **Recognisable as marketing from the outset (CAP 2.1 and 2.3).**
+  - Golf Fang failed because the item looked like a real penalty notice until it was read.
+  - So: no fake parking tickets, police, recalls, delivery-failure notices, "breaking news" tags or official-looking notices, on screen or in the caption.
+  - Krispy Kreme KR's caption opens with a fake [BREAKING] tag; we should not copy that.
+  - Put the KB label in the first second. It also helps attention, per Teixeira.
+- **No unjustified fear or distress (CAP 4.2).**
+  - A near-miss on a cake box or a toy car is fine.
+  - A realistic crash, injury, a person at risk or a lost-order panic is not.
+  - The W&N Bugatti works because the "damage" is to a toy and is revealed within the video. Our version should signal play early (toy van in the first seconds, playful music) rather than at 14s.
+- **People.**
+  - Do not copy formats that mock a vulnerable person (the Liquid Death oxygen-tank skit) or use a child's labour as the joke (alwaysyoursbakerycafe).
+  - Real customers or bosses filmed in shop need consent.
+- **AI.**
+  - FOOH and CGI bait must carry the platform AI label where it is realistic.
+  - The product half must be our real bakes. The owner confirmed on 18 Oct 2026 that every photo and the hero video on kongwabakes.com are real bakes, so those can be used in product halves.
+- **Offers in a pause frame.**
+  - If we hide an offer in one frame, the terms must be true and redeemable.
+  - Repeat them in the caption so nobody needs a perfect pause to see the commercial intent.
+
+### T5. What we still do not know
+
+- **Sales.** No example reports orders from a specific post. The bake16.17 sell-out is self-reported. Our own Monday metrics plus "How did you hear about us?" are the only way to learn whether bait brings orders.
+- **Watch time and completion.** Scrapers give plays, not retention. We cannot see whether viewers leave at the switch.
+- **Audio.** Whether a sting or beat drop at the switch matters. We could not verify audio on the downloaded files, and one had no audio track.
+- **Platform dependence.** The same creative did 9.6x on Instagram and 32x on TikTok (Scrub Daddy), and Liquid Death's parenting ad varied similarly. We only have a few twins.
+- **Small-account noise.** Accounts with tiny medians (5 to 600 plays) swing to big multiples on little reach. Several multiples sit outside the scrape window (marked `*`).
+- **TikTok scene timings** come from a machine description, not frame measurement. A future pass with downloaded files would firm them up.
+- **UK bakery bait examples are still thin.** We found 6 UK accounts but only one UK bakery (bake16.17) with repeatable high multiples, and no UK bakery doing a W&N-style hard-switch skit.
