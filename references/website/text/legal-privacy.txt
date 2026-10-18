@@ -1,0 +1,109 @@
+Privacy policy | Kongwa Bakes
+Skip to content
+Kongwa Bakes
+Menu
+Our Story
+Real Orders
+Areas
+Catering
+Guides
+Contact us
+Order Now
+Menu
+Our Story
+Real Orders
+Where we deliver
+Catering and events
+Sourdough guides
+Contact us
+Privacy policy
+We are a family bakery, not a data business. This page explains, in plain English, what information we hold about you, why, and what your rights are under UK data protection law (UK GDPR and the Data Protection Act 2018).
+Who we are
+Kongwa Bakes is run by The Kongwa Family in Medway, Kent. For anything in this policy, the person to contact is us, at
+hello@kongwabakes.com
+.
+What we collect and why
+Orders.
+When you order, we receive what you ordered, the Saturday you chose, whether you want collection or local delivery, and anything you typed in the notes. Your name, email address, phone number and delivery address are collected on the payment page by Stripe, and passed to us so we can bake your order and get it to you. We keep this in our email inbox and in our Stripe account, not in a database of our own.
+Payment.
+Payments are handled by Stripe Payments UK Ltd, who act as a separate data controller for the payment itself. We never see or store your full card details. Their privacy policy is at
+stripe.com/gb/privacy
+.
+Your postcode.
+When you type a postcode to check whether we deliver to you, we send that postcode alone to postcodes.io, a free UK service built on Ordnance Survey and ONS data, to find out which local authority it sits in. Nothing else about you goes with it, and we do not keep a record of who searched for what.
+Catering enquiries.
+If you use the catering form we receive your name, email address, any phone number you give us, and the details of your event. We use it to answer you and nothing else.
+Sending you email.
+Order confirmations and enquiry replies are sent through Resend, an email provider acting on our instructions, and our own email is hosted by Google Workspace.
+Reviews.
+When you order, we pass your name and email address to Trustpilot so that it can invite you to review us, a few days after your bake. That is the only thing it is used for, you do not have to leave a review, and you can opt out using the link in Trustpilot's invitation. Trustpilot's own privacy policy is at
+legal.trustpilot.com
+. The Trustpilot button at the foot of each page is loaded from Trustpilot and, according to Trustpilot, sets no cookies.
+Analytics.
+We use Google Analytics, which sets a cookie to tell one visit from another. It loads only after you accept the cookie banner, and does not load at all if you decline. Ad personalisation and Google Signals are switched off and your IP address is shortened before storage, so this measures how the site is used rather than following you elsewhere. Full detail is on our
+cookies page
+.
+What we do not do
+We do not sell your data, share it with advertisers, or use advertising trackers of any kind. We do not send marketing emails unless you have clearly asked for them, and you can stop them any time.
+Our lawful basis
+For orders, we process your details to perform the contract you entered into when you paid. For catering enquiries and any other message, we rely on our legitimate interest in answering you. For analytics, we rely on your consent, which you gave through the cookie banner and can withdraw at any time.
+How long we keep things
+We keep order information only as long as we need it to fulfil your order, handle any follow-up, and meet our legal duties. HMRC requires us to keep records of a sale for six years, so paid orders are kept that long. Catering enquiries that do not turn into a booking are deleted within twelve months.
+Your rights
+You can ask us at any time to see the information we hold about you, correct it, delete it, or stop using it. Email
+hello@kongwabakes.com
+and we will sort it within a month. If you are unhappy with how we have handled your data, you can complain to the Information Commissioner's Office at
+ico.org.uk
+.
+Changes to this policy
+If we change how we handle your data, we will update this page and, for anything significant, tell you directly.
+Kongwa Bakes
+Baked By Family, Made For Yours.
+A family bakery in Medway, Kent. Baked by The Kongwa Family, led by head chef Hilary Kongwa.
+Visit and collect
+Fresh bakes for Medway collection and local delivery.
+hello@kongwabakes.com
+07480 342608
+Instagram
+Facebook
+LinkedIn
+TikTok
+On this page
+Menu and order
+Cakes
+Custom cakes
+Where we deliver
+Catering and events
+Sourdough guides
+Contact us
+Our story
+Real Orders
+The small print
+Privacy policy
+Terms of sale
+Cookies
+Allergen information for every product is available on request, per Natasha's Law. Food hygiene registration: Medway Council.
+Enjoyed your bake? We'd love to hear about it.
+Review us on Trustpilot
+Review us on Trustpilot
+© 2026 Kongwa Bakes. Owned by the Kongwa Group. Made with love in Medway, Kent.
+Powered by
+Kongwa Tech
+We use Google Analytics to see which bakes people love. It sets a cookie, so nothing loads unless you say yes. We never sell your data. Is that alright?
+How we use cookies
+Yes, that's fine
+No thanks
+From our family kitchen
+10% off your first order
+Leave your email and we will send you a code that is yours alone. You will hear from us when something new comes out of the oven, and not otherwise.
+Email
+Company
+Send my code
+One code per person, used once. No spam, and you can unsubscribe from any email we send. See our
+privacy policy
+.
+Check your inbox
+Your code is on its way, and it is already saved on this device. Here it is too, so you have it:
+Copy
+Nothing to type. It applies itself at checkout on this device, and the link in your email carries it to any other. Yours alone, works once.
+See this week's bake

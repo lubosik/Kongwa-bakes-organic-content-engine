@@ -1,0 +1,342 @@
+[
+  {
+    "file": "assets/library/website/hero-sourdough-loaf-kitchen-table-hero.jpg",
+    "source_url": "https://kongwabakes.com/hero/poster.jpg",
+    "product": "Sourdough Country Loaf (generic hero)",
+    "shot_type": "hero",
+    "orientation": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "notes": "Desktop hero video poster. Split sourdough loaf steaming on a rustic wooden table, golden window light, pastries with butter pats behind. THINK: looks AI-generated / stylised, not a real kitchen photo."
+  },
+  {
+    "file": "assets/library/website/hero-sourdough-loaf-kitchen-table-mobile-hero.jpg",
+    "source_url": "https://kongwabakes.com/hero/poster-mobile.jpg",
+    "product": "Sourdough Country Loaf (generic hero)",
+    "shot_type": "hero",
+    "orientation": "portrait",
+    "width": 720,
+    "height": 1280,
+    "notes": "Mobile 9:16 hero poster (data-poster-mobile). Single round loaf on table, warm low light. THINK: AI-generated look."
+  },
+  {
+    "file": "assets/library/website/og-share-card-sourdough-loaf-hero.jpg",
+    "source_url": "https://kongwabakes.com/og/home.jpg",
+    "product": "Brand share card",
+    "shot_type": "hero",
+    "orientation": "landscape",
+    "width": 1200,
+    "height": 630,
+    "notes": "Open Graph image used on every page. Text on image: \"Kongwa Bakes\", \"Baked By Family, Made For Yours.\", \"Real sourdough, baked fresh every Saturday in Medway.\", \"Collection & local delivery . Medway, Kent\". Contains KB monogram."
+  },
+  {
+    "file": "assets/library/website/sourdough-country-loaf-hero.jpg",
+    "source_url": "https://kongwabakes.com/images/menu/sourdough-country-loaf.jpg",
+    "product": "Sourdough Country Loaf",
+    "shot_type": "hero",
+    "orientation": "portrait",
+    "width": 1400,
+    "height": 1867,
+    "notes": "Portrait 3:4. Whole scored round loaf on white plate, dark granite worktop. Only portrait product shot on the site."
+  },
+  {
+    "file": "assets/library/website/sourdough-rolls-flatlay.jpg",
+    "source_url": "https://kongwabakes.com/images/menu/sourdough-rolls.jpg",
+    "product": "Sourdough Rolls (box of 6)",
+    "shot_type": "flatlay",
+    "orientation": "square",
+    "width": 1200,
+    "height": 1200,
+    "notes": "Six scored rolls on white plate, granite worktop, window light."
+  },
+  {
+    "file": "assets/library/website/croissant-sourdough-loaf-hero.jpg",
+    "source_url": "https://kongwabakes.com/images/menu/croissant-sourdough-loaf.jpg",
+    "product": "Croissant Sourdough Loaf",
+    "shot_type": "hero",
+    "orientation": "square",
+    "width": 1200,
+    "height": 1200,
+    "notes": "Round laminated loaf on white plate, granite worktop. Also used on the what-real-sourdough-is guide."
+  },
+  {
+    "file": "assets/library/website/croissant-sourdough-rolls-close-up.jpg",
+    "source_url": "https://kongwabakes.com/images/menu/croissant-sourdough-rolls.jpg",
+    "product": "Croissant Sourdough Rolls (box of 6)",
+    "shot_type": "close-up",
+    "orientation": "square",
+    "width": 1200,
+    "height": 1200,
+    "notes": "Rolls piled in a cloth-lined wooden bowl, golden light."
+  },
+  {
+    "file": "assets/library/website/focaccia-flatlay.jpg",
+    "source_url": "https://kongwabakes.com/images/menu/focaccia.jpg",
+    "product": "Focaccia",
+    "shot_type": "flatlay",
+    "orientation": "square",
+    "width": 1200,
+    "height": 1200,
+    "notes": "Round dimpled rosemary focaccia on white plate, overhead-ish angle."
+  },
+  {
+    "file": "assets/library/website/brioche-loaf-crumb.jpg",
+    "source_url": "https://kongwabakes.com/images/menu/brioche-loaf.jpg",
+    "product": "Brioche Loaf",
+    "shot_type": "crumb",
+    "orientation": "square",
+    "width": 1200,
+    "height": 1200,
+    "notes": "Glossy brioche loaf, cut end showing crumb, white plate, granite."
+  },
+  {
+    "file": "assets/library/website/brioche-buns-flatlay.jpg",
+    "source_url": "https://kongwabakes.com/images/menu/brioche-buns.jpg",
+    "product": "Brioche Buns (box of 6)",
+    "shot_type": "flatlay",
+    "orientation": "square",
+    "width": 1200,
+    "height": 1200,
+    "notes": "Six glossy buns on a white rectangular platter."
+  },
+  {
+    "file": "assets/library/website/cinnamon-buns-close-up.jpg",
+    "source_url": "https://kongwabakes.com/images/menu/cinnamon-buns.jpg",
+    "product": "Cinnamon Buns (box of 6)",
+    "shot_type": "close-up",
+    "orientation": "square",
+    "width": 1200,
+    "height": 1200,
+    "notes": "Twisted cinnamon knots on white plate."
+  },
+  {
+    "file": "assets/library/website/chocolate-chip-cookies-flatlay.jpg",
+    "source_url": "https://kongwabakes.com/images/menu/chocolate-chip-cookies.jpg",
+    "product": "Chocolate Chip Cookies (box of 6)",
+    "shot_type": "flatlay",
+    "orientation": "square",
+    "width": 1200,
+    "height": 1200,
+    "notes": "Stack of cookies on white plate, granite worktop."
+  },
+  {
+    "file": "assets/library/website/banana-muffins-box.jpg",
+    "source_url": "https://kongwabakes.com/images/menu/banana-muffins.jpg",
+    "product": "Banana Muffins (box of 6)",
+    "shot_type": "box",
+    "orientation": "square",
+    "width": 1200,
+    "height": 1200,
+    "notes": "Six muffins in tulip cases in a kraft box."
+  },
+  {
+    "file": "assets/library/website/banana-loaf-crumb.jpg",
+    "source_url": "https://kongwabakes.com/images/menu/banana-loaf.jpg",
+    "product": "Banana Loaf",
+    "shot_type": "crumb",
+    "orientation": "square",
+    "width": 1200,
+    "height": 1200,
+    "notes": "Loaf with cracked top and a cut slice showing crumb, granite worktop."
+  },
+  {
+    "file": "assets/library/website/pretzels-close-up.jpg",
+    "source_url": "https://kongwabakes.com/images/menu/pretzels.jpg",
+    "product": "Pretzels (each)",
+    "shot_type": "close-up",
+    "orientation": "square",
+    "width": 1200,
+    "height": 1200,
+    "notes": "Two salted soft pretzels on white plate."
+  },
+  {
+    "file": "assets/library/website/victoria-sponge-hero.jpg",
+    "source_url": "https://kongwabakes.com/images/menu/victoria-sponge.jpg",
+    "product": "Victoria Sponge",
+    "shot_type": "hero",
+    "orientation": "square",
+    "width": 1200,
+    "height": 1200,
+    "notes": "Two-layer sponge with cream, strawberries, raspberries, kiwi, on silver board."
+  },
+  {
+    "file": "assets/library/website/chocolate-fudge-cake-close-up.jpg",
+    "source_url": "https://kongwabakes.com/images/menu/chocolate-fudge-cake.jpg",
+    "product": "Chocolate Fudge Cake",
+    "shot_type": "close-up",
+    "orientation": "square",
+    "width": 1200,
+    "height": 1200,
+    "notes": "Top-down-ish view of piped chocolate buttercream rosettes and strawberries."
+  },
+  {
+    "file": "assets/library/website/red-velvet-cake-hero.jpg",
+    "source_url": "https://kongwabakes.com/images/menu/red-velvet-cake.jpg",
+    "product": "Red Velvet Cake",
+    "shot_type": "hero",
+    "orientation": "square",
+    "width": 1200,
+    "height": 1200,
+    "notes": "Crimson crumb-coated cake with cream cheese rosette border on silver board."
+  },
+  {
+    "file": "assets/library/website/carrot-walnut-cake-hero.jpg",
+    "source_url": "https://kongwabakes.com/images/menu/carrot-walnut-cake.jpg",
+    "product": "Carrot and Walnut Cake",
+    "shot_type": "hero",
+    "orientation": "square",
+    "width": 1200,
+    "height": 1200,
+    "notes": "Cake with cream cheese top and walnut halves, wooden table, window light. THINK: lighting/style differs from the granite-worktop set; possibly AI-generated."
+  },
+  {
+    "file": "assets/library/website/guinness-marble-cake-crumb.jpg",
+    "source_url": "https://kongwabakes.com/images/menu/guinness-marble-cake.jpg",
+    "product": "Guinness Marble Cake",
+    "shot_type": "crumb",
+    "orientation": "square",
+    "width": 1200,
+    "height": 1200,
+    "notes": "Dark cake with white top, slice cut out and plated. THINK: possibly AI-generated. Note: copy says marbled with vanilla swirl, but image shows uniform dark crumb (no visible marble)."
+  },
+  {
+    "file": "assets/library/website/lemon-drizzle-cake-hero.jpg",
+    "source_url": "https://kongwabakes.com/images/menu/lemon-drizzle-cake.jpg",
+    "product": "Lemon Drizzle Cake",
+    "shot_type": "hero",
+    "orientation": "square",
+    "width": 1200,
+    "height": 1200,
+    "notes": "Loaf cake with crackled sugar crust and zest on wooden board. THINK: possibly AI-generated."
+  },
+  {
+    "file": "assets/library/website/blueberry-cream-cake-hero.jpg",
+    "source_url": "https://kongwabakes.com/images/menu/blueberry-cream-cake.jpg",
+    "product": "Blueberry and Cream Cake",
+    "shot_type": "hero",
+    "orientation": "square",
+    "width": 1200,
+    "height": 1200,
+    "notes": "White cream cake with rosettes, blueberries, blackberries and lemon twists."
+  },
+  {
+    "file": "assets/library/website/heart-cake-hero.jpg",
+    "source_url": "https://kongwabakes.com/images/menu/heart-celebration-cake.jpg",
+    "product": "Heart Cake",
+    "shot_type": "hero",
+    "orientation": "square",
+    "width": 1200,
+    "height": 1200,
+    "notes": "Heart shaped cake covered in pink piped rosettes on gold board."
+  },
+  {
+    "file": "assets/library/website/cupcakes-box.jpg",
+    "source_url": "https://kongwabakes.com/images/menu/cupcakes.jpg",
+    "product": "Cupcakes (box of 6)",
+    "shot_type": "box",
+    "orientation": "square",
+    "width": 1200,
+    "height": 1200,
+    "notes": "Six vanilla cupcakes with white buttercream swirls in a kraft box."
+  },
+  {
+    "file": "assets/library/website/custom-cake-happy-birthday-hero.jpg",
+    "source_url": "https://kongwabakes.com/images/menu/custom-cake.jpg",
+    "product": "Custom cake",
+    "shot_type": "hero",
+    "orientation": "square",
+    "width": 1200,
+    "height": 1200,
+    "notes": "White cake with piped cream, almond flakes and a cyclist \"Happy Birthday\" topper on gold board. Byte-identical to /images/cakes/custom-cake.jpg (stored once)."
+  },
+  {
+    "file": "assets/library/website/custom-chocolate-drip-cake-hero.jpg",
+    "source_url": "https://kongwabakes.com/images/cakes/chocolate-drip-cake.jpg",
+    "product": "Custom cake: chocolate and gold",
+    "shot_type": "hero",
+    "orientation": "square",
+    "width": 800,
+    "height": 800,
+    "notes": "Tall chocolate cake, gold drip, cigarillos, gold pearls, \"18\" Birthday topper. Gallery caption \"Chocolate and gold\"."
+  },
+  {
+    "file": "assets/library/website/custom-ferrero-rocher-cake-hero.jpg",
+    "source_url": "https://kongwabakes.com/images/cakes/ferrero-rocher-cake.jpg",
+    "product": "Custom cake: Ferrero Rocher",
+    "shot_type": "hero",
+    "orientation": "square",
+    "width": 800,
+    "height": 800,
+    "notes": "Chocolate buttercream cake topped with Ferrero Rocher. Gallery caption \"Ferrero Rocher\"."
+  },
+  {
+    "file": "assets/library/website/custom-guitar-cake-flatlay.jpg",
+    "source_url": "https://kongwabakes.com/images/cakes/guitar-cake.jpg",
+    "product": "Custom cake: guitar",
+    "shot_type": "flatlay",
+    "orientation": "square",
+    "width": 660,
+    "height": 660,
+    "notes": "Cake carved and iced as a red electric guitar on a silver board. Gallery caption \"A guitar, because they asked\". Smallest product image (660px)."
+  },
+  {
+    "file": "assets/library/website/custom-tiered-berry-cake-hero.jpg",
+    "source_url": "https://kongwabakes.com/images/cakes/tiered-berry-cake.jpg",
+    "product": "Custom cake: two tiers, summer berries",
+    "shot_type": "hero",
+    "orientation": "square",
+    "width": 800,
+    "height": 800,
+    "notes": "Two-tier white cake with piped cream, strawberries, blueberries, blackberries. Gallery caption \"Two tiers, summer berries\"."
+  },
+  {
+    "file": "assets/library/website/packaging-kraft-sleeve-kb-label-lifestyle.jpg",
+    "source_url": "https://kongwabakes.com/images/packaging/label.jpg",
+    "product": "Packaging: kraft sleeve with KB mark",
+    "shot_type": "lifestyle",
+    "orientation": "square",
+    "width": 1200,
+    "height": 1200,
+    "notes": "Sourdough loaf in kraft paper with kraft band carrying the dark round KB monogram and \"Kongwa Bakes\" wordmark. Used for \"Wrapped as carefully as it is baked\". THINK: looks like an AI/mockup render rather than a photo of real packaging (real labels in packed-orders.jpg look different)."
+  },
+  {
+    "file": "assets/library/website/packed-orders-boxes-and-bags-lifestyle.jpg",
+    "source_url": "https://kongwabakes.com/images/proof/packed-orders.jpg",
+    "product": "Real orders: banana muffins box, croissant sourdough rolls bag, red velvet cake box, focaccia bag",
+    "shot_type": "lifestyle",
+    "orientation": "landscape",
+    "width": 1800,
+    "height": 1136,
+    "notes": "REAL photo of packed orders. Shows real printed labels: white label \"Kongwa Bakes / Baked by family, made for yours.\" with wheat sprig, product name, ingredients with allergens in bold, net weight, best before, storage, \"Made by: Kongwa Bakes, Homemade in Kent, UK\", hello@kongwabakes.com, @kongwabakes, \"THANK YOU FOR SUPPORTING SMALL\". Round kraft KB stickers on boxes. Mint and pink striped muffin box."
+  },
+  {
+    "file": "assets/library/website/catering-grazing-table-wide-lifestyle.jpg",
+    "source_url": "https://kongwabakes.com/images/proof/grazing-table-wide.jpg",
+    "product": "Catering: corporate grazing table",
+    "shot_type": "lifestyle",
+    "orientation": "landscape",
+    "width": 1800,
+    "height": 1080,
+    "notes": "Real event photo. Long buffet counter with breads, cheeses, charcuterie, pastries, a white cake."
+  },
+  {
+    "file": "assets/library/website/catering-grazing-table-detail-close-up.jpg",
+    "source_url": "https://kongwabakes.com/images/proof/grazing-table-detail.jpg",
+    "product": "Catering: corporate grazing table",
+    "shot_type": "close-up",
+    "orientation": "landscape",
+    "width": 1800,
+    "height": 810,
+    "notes": "Real event photo. Close detail of breads, pastries and savoury items on the grazing table. Wide 20:9 crop."
+  },
+  {
+    "file": "assets/library/website/hero-sourdough-loaf-steam-house-reveal-video.webm",
+    "source_url": "https://kongwabakes.com/hero/hero.webm",
+    "product": "Sourdough Country Loaf (generic hero)",
+    "shot_type": "hero",
+    "orientation": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "notes": "Homepage hero video, VP9 WebM, 10.04s, muted loop. Steam rises off a split loaf; a glowing house outline with a lit window appears in the loaf, then fades. The MP4 and mobile 9:16 MP4 variants referenced in the HTML return 404. THINK: AI-generated motion piece."
+  }
+]
