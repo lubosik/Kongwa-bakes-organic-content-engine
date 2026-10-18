@@ -1,0 +1,13 @@
+{
+ "source": "apify/instagram-scraper run zbn142V48Zc6ny6vY, resultsType details, scraped 2026-10-18 (trimmed to useful fields)",
+ "items": [
+  {"username": "wantsandneedsbrand_", "followersCount": 876190, "postsCount": 103, "businessCategoryName": "Clothing (Brand)"},
+  {"username": "duolingo", "followersCount": 5367136, "postsCount": 1168, "businessCategoryName": null},
+  {"username": "ryanair", "followersCount": 1909843, "postsCount": 7753, "businessCategoryName": "None"},
+  {"username": "scrubdaddy", "followersCount": 717632, "postsCount": 256, "businessCategoryName": "Kitchen/cooking"},
+  {"username": "liquiddeath", "followersCount": 6888653, "postsCount": 1058, "businessCategoryName": "Brand"},
+  {"username": "krispykremekr", "followersCount": 331007, "postsCount": 1763, "businessCategoryName": "Grocery Store"},
+  {"username": "mcdsg", "followersCount": 318762, "postsCount": 4876, "businessCategoryName": "Restaurants"},
+  {"username": "otto_sport_bar", "followersCount": 5969, "postsCount": 1043, "businessCategoryName": "Burger Restaurant"}
+ ]
+}
