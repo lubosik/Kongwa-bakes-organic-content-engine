@@ -1,0 +1,8 @@
+# Third-party reference videos are for analysis only, never committed or reposted
+references/videos/
+# Large raw and rendered media live in Google Drive
+*.mov
+*.MOV
+bait/renders/*.mp4
+node_modules/
+.DS_Store
