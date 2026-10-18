@@ -12,8 +12,8 @@
 #   WRAP=18            max characters per hook line
 #   BOX="430:760:220:520"   target outline x:y:w:h on the 1080x1920 grid ("" for none)
 #   CHIP="orders close Thursday 5pm"
-#   LOGO=assets/brand/kb-monogram.png   optional
-#   FONT, FONT_ITALIC, CHIP_FONT        font files
+#   LOGO=assets/brand/kb-monogram-1024-transparent.png   ("" for none)
+#   FONT, FONT_ITALIC, CHIP_FONT        default to brand Fraunces and Mulish
 #   SCALE=2            2 = 4K 2160x3840 master (house standard), 1 = 1080x1920
 #   MUSIC=             optional licensed bed (TikTok CML or our own Suno), sits MUSIC_DB under the clip
 #   MUSIC_DB=-16
@@ -33,10 +33,10 @@ HOOK="${HOOK:-only 2% can *pause* it on the PERFECT slice}"
 WRAP="${WRAP:-18}"
 BOX="${BOX-430:760:220:520}"
 CHIP="${CHIP-orders close Thursday 5pm}"
-LOGO="${LOGO:-}"
-FONT="${FONT:-/usr/share/fonts/opentype/inter/Inter-Bold.otf}"
-FONT_ITALIC="${FONT_ITALIC:-/usr/share/fonts/opentype/inter/Inter-BoldItalic.otf}"
-CHIP_FONT="${CHIP_FONT:-/usr/share/fonts/opentype/inter/Inter-Medium.otf}"
+LOGO="${LOGO-$HERE/../assets/brand/kb-monogram-1024-transparent.png}"
+FONT="${FONT:-$HERE/../assets/brand/fonts/Fraunces-SemiBold.ttf}"
+FONT_ITALIC="${FONT_ITALIC:-$HERE/../assets/brand/fonts/Fraunces-SemiBoldItalic.ttf}"
+CHIP_FONT="${CHIP_FONT:-$HERE/../assets/brand/fonts/Mulish-SemiBold.ttf}"
 SCALE="${SCALE:-2}"
 MUSIC="${MUSIC:-}"; MUSIC_DB="${MUSIC_DB:--16}"
 LOOPFADE="${LOOPFADE:-0.25}"
