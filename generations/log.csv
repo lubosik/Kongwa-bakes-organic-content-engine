@@ -1,3 +1,5 @@
 date,concept,model,prompt,references_used,credits,pass_fail,reason
 2026-10-18,K20,seedance_2_5,"giant croissant sourdough loaf at Rochester Castle (see concepts/K20-giant-loaf/quote.md)",none,0,quote only,"480p draft quoted 15 credits; 1080p 80 credits; not generated"
 2026-10-18,K20,kling3_0,"same",none,0,quote only,"std 5s no sound quoted 6.25 credits; not generated"
+2026-10-19,MEME-01 fat cow,kling3_0,"chubby cartoonish cow, big belly, upright waddle dance, solid green chroma background, locked-off, 9:16 5s std no sound",none,6.25,pending QA,"reusable green-screen meme character"
+2026-10-19,MEME seagull,kling3_0,"very fat cartoonish herring gull, waddle on the spot, solid green chroma background, locked-off, 9:16 5s std no sound",none,6.25,pending QA,"reusable green-screen meme character (Medway)"

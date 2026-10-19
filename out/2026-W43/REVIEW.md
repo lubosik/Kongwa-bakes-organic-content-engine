@@ -13,17 +13,19 @@ Nothing gets scheduled until it says approve.
 
 | Day | File | Concept | What is real, what is graphic | Your call |
 |---|---|---|---|---|
-| Mon 19 | `2026-10-19_k08-pause-cinnamon-knot` | K08 photo pause, hidden reward | Real photo (cinnamon buns). Ring, text and reward card are graphics. | |
+| Mon 19 | `2026-10-19_k08-pause-cinnamon-knot` | K08 photo pause, hidden reward (code GOTIT10) | Real photo (cinnamon buns). Ring, text and reward card are graphics. | |
 | Tue 20 | `2026-10-20_k03-meme-steam-sourdough` | K03 meme over real footage | Real website hero clip (first 2.3s, before the house graphic), slowed 2.5x. Text burned in. | |
 | Wed 21 | `2026-10-21_k10-pause-roulette-saturday` | K10 pause roulette | 10 real photos with real names and prices. | |
 | Thu 22 | `2026-10-22_k18-thursday-last-call` | K18 last call | 10 real photos, including the real packed-orders shot. | |
-| Fri 23 | `2026-10-23_k08-pause-cookie` | K08 photo pause, hidden reward | Real photo (cookies). Graphics as Monday. | |
+| Fri 23 | `2026-10-23_k08-pause-cookie` | K08 photo pause, hidden reward (code GOTIT10). Bosi liked this hook. | Real photo (cookies). Graphics as Monday. | |
 
 ---
 
 ## Decisions needed before any of these go out
 
-1. **The reward (K08, Mon and Fri).** The hidden frame says "screenshot this and DM us for 10% off your first order". This uses the site's existing first-order offer. Approve, or name a different reward (for example a free cookie with a Saturday order).
+1. **The reward code (K08, Mon and Fri).** Approved by Bosi on 19 Oct: 10% off, shown as a code on the hidden frame, "use code GOTIT10 for 10% off your first order".
+   - **Action for Bosi:** create the shared code **GOTIT10** in the site backend (first-order only). Checked 19 Oct: WELCOME, WELCOME10, KONGWA10 and FIRST10 are all rejected by `/api/discount-check`; the site's welcome codes are unique per email.
+   - The site already supports `kongwabakes.com/?code=GOTIT10`: the code is saved and auto-applied in the basket. Use that as the bio link while the pause posts are live.
 2. **Sourdough ingredients (K03).** The caption says "flour, water, salt and a few days". The site says some loaves use wholemeal or rye. Confirm this is exactly true of the country loaf.
 3. **This week's menu (K10, K18).** Confirm every item shown is on this Saturday's menu at the price shown.
 4. **Audio.** K03 and K18 are silent and K08 and K10 have our own synthesised clock ticks. Add a trending sound from TikTok's Commercial Music Library in the app when posting, and keep it under any on-screen action. The house rule of a no-music version is covered: these files are it.

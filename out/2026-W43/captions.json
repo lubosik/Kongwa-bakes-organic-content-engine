@@ -4,12 +4,17 @@
     "concept": "K08",
     "post_on": "2026-10-19",
     "hook": "bet you can't PAUSE it on the middle knot",
-    "caption": "Paused it on the middle knot? Screenshot it and DM us for 10% off your first order.\n\nComment if you got it.\n\nCinnamon buns, hand-twisted, box of 6, £5.00.\n\nOrders close Thursday 5pm.\nCollection or local delivery in Medway, Saturday 8am to midday.\nORDER at the link in bio.",
-    "hashtags": ["#pauseattherighttime", "#cinnamonbuns", "#medway", "#kentbakery"],
+    "caption": "Paused it on the middle knot? Use code GOTIT10 for 10% off your first order.\n\nComment if you got it.\n\nCinnamon buns, hand-twisted, box of 6, £5.00.\n\nOrders close Thursday 5pm.\nCollection or local delivery in Medway, Saturday 8am to midday.\nORDER at the link in bio.",
+    "hashtags": [
+      "#pauseattherighttime",
+      "#cinnamonbuns",
+      "#medway",
+      "#kentbakery"
+    ],
     "location": "Medway",
     "ai_label": false,
-    "destination": "https://kongwabakes.com/#order",
-    "needs_approval": "10% first-order reward via DM screenshot"
+    "destination": "https://kongwabakes.com/?code=GOTIT10",
+    "needs_approval": "Create shared first-order code GOTIT10 (10% off) in the site backend. The link kongwabakes.com/?code=GOTIT10 auto-applies it in the basket."
   },
   {
     "file": "2026-10-20_k03-meme-steam-sourdough_captioned.mp4",
@@ -17,7 +22,12 @@
     "post_on": "2026-10-20",
     "hook": "me telling the family the loaf is for sunday",
     "caption": "It never makes it to Sunday.\n\nSourdough country loaf, £5.50. Flour, water, salt and a few days.\n\nOrders close Thursday 5pm.\nCollection or local delivery in Medway, Saturday 8am to midday.\nORDER at the link in bio.",
-    "hashtags": ["#sourdough", "#medway", "#rochester", "#familybakery"],
+    "hashtags": [
+      "#sourdough",
+      "#medway",
+      "#rochester",
+      "#familybakery"
+    ],
     "location": "Rochester",
     "ai_label": false,
     "destination": "https://kongwabakes.com/#order",
@@ -29,7 +39,12 @@
     "post_on": "2026-10-21",
     "hook": "wherever you PAUSE is your saturday order",
     "caption": "What did you land on? Comment it below.\n\nAll real bakes, all on this Saturday's menu.\n\nOrders close Thursday 5pm.\nCollection or local delivery in Medway, Saturday 8am to midday.\nORDER at the link in bio.",
-    "hashtags": ["#pausechallenge", "#medway", "#kentbakery", "#sourdough"],
+    "hashtags": [
+      "#pausechallenge",
+      "#medway",
+      "#kentbakery",
+      "#sourdough"
+    ],
     "location": "Medway",
     "ai_label": false,
     "destination": "https://kongwabakes.com/#order",
@@ -41,7 +56,12 @@
     "post_on": "2026-10-22",
     "hook": "orders close at 5pm TODAY",
     "caption": "Last call for Saturday.\n\nOrders close at 5pm today.\nCollection or local delivery in Medway, Saturday 8am to midday.\nORDER at the link in bio.",
-    "hashtags": ["#medway", "#rochester", "#chatham", "#kentbakery"],
+    "hashtags": [
+      "#medway",
+      "#rochester",
+      "#chatham",
+      "#kentbakery"
+    ],
     "location": "Medway",
     "ai_label": false,
     "destination": "https://kongwabakes.com/#order",
@@ -52,11 +72,16 @@
     "concept": "K08",
     "post_on": "2026-10-23",
     "hook": "bet you can't PAUSE it on the top cookie",
-    "caption": "Got the top cookie? Screenshot it and DM us for 10% off your first order.\n\nComment if you got it.\n\nChocolate chip cookies, box of 6, £4.25.\n\nOrders close Thursday 5pm.\nCollection or local delivery in Medway, Saturday 8am to midday.\nORDER at the link in bio.",
-    "hashtags": ["#pauseattherighttime", "#cookies", "#medway", "#kentbakery"],
+    "caption": "Got the top cookie? Use code GOTIT10 for 10% off your first order.\n\nComment if you got it.\n\nChocolate chip cookies, box of 6, £4.25.\n\nOrders close Thursday 5pm.\nCollection or local delivery in Medway, Saturday 8am to midday.\nORDER at the link in bio.",
+    "hashtags": [
+      "#pauseattherighttime",
+      "#cookies",
+      "#medway",
+      "#kentbakery"
+    ],
     "location": "Medway",
     "ai_label": false,
-    "destination": "https://kongwabakes.com/#order",
-    "needs_approval": "10% first-order reward via DM screenshot. Note: Friday post means orders for the following Saturday (8 days out)."
+    "destination": "https://kongwabakes.com/?code=GOTIT10",
+    "needs_approval": "Create shared first-order code GOTIT10 (10% off) in the site backend. The link kongwabakes.com/?code=GOTIT10 auto-applies it in the basket."
   }
 ]
