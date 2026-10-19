@@ -502,5 +502,95 @@
     "ai_label": true,
     "destination_cta": "default",
     "check": ""
+  },
+  {
+    "id": "MEME-29",
+    "file": "MEME-29_starter-fighting-for-her-life_captioned.mp4",
+    "audience": "home bakers",
+    "format": "text over bake",
+    "on_screen": "my starter after I missed ONE feed (she is fighting for her life)",
+    "caption": "She will be fine. Usually. If yours isn't, our free starter guide walks you through it.\n\nStarting a starter? Our free guide is on kongwabakes.com/sourdough/starter-guide/",
+    "hashtags": [
+      "#sourdough",
+      "#sourdoughstarter",
+      "#bakingmemes",
+      "#sourdoughmemes"
+    ],
+    "location": "Medway",
+    "ai_label": false,
+    "destination_cta": "starter",
+    "check": ""
+  },
+  {
+    "id": "MEME-30",
+    "file": "MEME-30_cant-come-out-starter_captioned.mp4",
+    "audience": "home bakers",
+    "format": "text over bake",
+    "on_screen": "\"sorry, can't come out tonight. I have to feed my starter.\"",
+    "caption": "A real excuse. We've used it.\n\nStarting a starter? Our free guide is on kongwabakes.com/sourdough/starter-guide/",
+    "hashtags": [
+      "#sourdough",
+      "#sourdoughstarter",
+      "#bakingmemes",
+      "#sourdoughmemes"
+    ],
+    "location": "Medway",
+    "ai_label": false,
+    "destination_cta": "starter",
+    "check": ""
+  },
+  {
+    "id": "MEME-31",
+    "file": "MEME-31_starter-name-puns_captioned.mp4",
+    "audience": "home bakers",
+    "format": "two-beat",
+    "on_screen": "sourdough starter names that go hard: / clint yeastwood. bread pitt. doughlly parton.",
+    "caption": "Yours? Best name in the comments wins bragging rights.\n\nReal bakes from our family kitchen in Medway.\nOrders close Thursday 5pm, link in bio.",
+    "hashtags": [
+      "#sourdough",
+      "#sourdoughstarter",
+      "#bakingmemes",
+      "#sourdoughmemes"
+    ],
+    "location": "Medway",
+    "ai_label": false,
+    "destination_cta": "default",
+    "check": ""
+  },
+  {
+    "id": "MEME-32",
+    "file": "MEME-32_friday-night-family-bakery_captioned.mp4",
+    "audience": "locals",
+    "format": "text over bake",
+    "on_screen": "POV: friday night in a family bakery. nobody is going out. the dough is proofing.",
+    "caption": "Saturday's orders, packed with care. See you 8am.\n\nOrders close Thursday 5pm.\nCollection or local delivery in Medway, Saturday 8am to midday.\nORDER at the link in bio.",
+    "hashtags": [
+      "#medway",
+      "#kentbakery",
+      "#bakingmemes",
+      "#rochester"
+    ],
+    "location": "Medway",
+    "ai_label": false,
+    "destination_cta": "order",
+    "check": ""
+  },
+  {
+    "id": "MEME-33",
+    "file": "MEME-33_cookie-with-personality_captioned.mp4",
+    "audience": "locals",
+    "format": "bake edit",
+    "on_screen": "a cookie with personality",
+    "caption": "Chocolate chip cookies, box of 6, £4.25. Each one has opinions.\n\nReal bakes from our family kitchen in Medway.\nOrders close Thursday 5pm, link in bio.",
+    "hashtags": [
+      "#medway",
+      "#kentbakery",
+      "#bakingmemes",
+      "#rochester"
+    ],
+    "location": "Medway",
+    "ai_label": false,
+    "destination_cta": "default",
+    "check": ""
   }
 ]

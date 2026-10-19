@@ -1,6 +1,6 @@
 # Meme batch v1 for review
 
-28 memes made on 19 October 2026 from Bosi's reference (@doughybyzoey, "POV: you started baking sourdough to be healthy...").
+33 memes made on 19 October 2026 from Bosi's reference (@doughybyzoey, "POV: you started baking sourdough to be healthy...").
 All backgrounds are real Kongwa Bakes photos. The cow and the seagull are our own AI characters (Higgsfield Kling 3.0, 6.25 credits each, 12.50 total), reusable for free from now on.
 
 - Quick look: `contact-sheet.jpg`
@@ -40,6 +40,11 @@ Bosi: write **approve**, **edit** (with the change) or **kill** in the last colu
 | MEME-26 | the seagull that watched you eat a pretzel on the high street | character over bake (seagull) | locals | pretzels-close-up | |
 | MEME-27 | me after "sharing" the cookies with the kids | character over bake (seagull) | locals | chocolate-chip-cookies-flatlay | |
 | MEME-28 | me walking back from the kitchen after "just checking" the party cupcakes | character over bake (seagull) | cake buyers | cupcakes-box | |
+| MEME-29 | my starter after I missed ONE feed (she is fighting for her life) | text over bake | home bakers | sourdough-rolls-flatlay | |
+| MEME-30 | "sorry, can't come out tonight. I have to feed my starter." | text over bake | home bakers | croissant-sourdough-loaf-hero | |
+| MEME-31 | sourdough starter names that go hard: / clint yeastwood. bread pitt. doughlly parton. | two-beat | home bakers | sourdough-country-loaf-hero | |
+| MEME-32 | POV: friday night in a family bakery. nobody is going out. the dough is proofing. | text over bake | locals | packed-orders-boxes-and-bags-lifestyle | |
+| MEME-33 | a cookie with personality | bake edit (googly eyes) | locals | chocolate-chip-cookies-flatlay | |
 
 ## Before posting
 
@@ -51,10 +56,14 @@ Bosi: write **approve**, **edit** (with the change) or **kill** in the last colu
 
 ## THINK: which to post first
 
-1. MEME-01 (direct remake of a reel that drew 16.4K shares).
-2. MEME-25 (Medway seagull: local, shareable, nobody else can post it).
-3. MEME-22 (bake edit, the cookie with eyes).
-4. MEME-16 (we have bread at home, family-bakery twist).
-5. MEME-09 (day four, feeds the starter guide).
+Ranked with the meme research (`research/notes-memes.md`, 44 rows; Apify hit its monthly limit, so these come from earlier scrapes and are a direction, not a result):
 
-Meme share-rate data from the research run will be added to `research/notes-memes.md` and used to re-rank this list.
+- DATA: the reference reel drew about 2 shares per like. The best measured TikTok bakery meme reached 0.27.
+- DATA: puns and one-liners had the highest share rate among bakery memes (median 0.29% shares per play; cookiemookie_uk "cookie with personality" 1.68%).
+- DATA: customer skits and MemeCut templates got plays but few shares (0.03 to 0.04%).
+
+1. MEME-01, direct remake of the 16.4K-share reference.
+2. MEME-31, starter-name puns (the highest-sharing format, and it asks for comments).
+3. MEME-25, the Medway seagull (local, and nobody else can post it).
+4. MEME-33 and MEME-22, cookie bake edits (the "cookie with personality" line is the best-sharing bakery post we measured).
+5. MEME-29, the starter "fighting for her life" (feeds the starter rescue guide).

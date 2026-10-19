@@ -301,5 +301,60 @@
   "text": "me walking back from the kitchen after \"just checking\" the party cupcakes",
   "caption": "Cupcakes, box of 6. Count them before the party.",
   "steps": 0.45
+ },
+ {
+  "id": "MEME-29",
+  "slug": "starter-fighting-for-her-life",
+  "audience": "home bakers",
+  "format": "text over bake",
+  "photo": "sourdough-rolls-flatlay.jpg",
+  "text": "my starter after I missed ONE feed (she is fighting for her life)",
+  "caption": "She will be fine. Usually. If yours isn't, our free starter guide walks you through it.",
+  "cta": "starter",
+  "note": "Research theme 5; feeds the starter rescue guide."
+ },
+ {
+  "id": "MEME-30",
+  "slug": "cant-come-out-starter",
+  "audience": "home bakers",
+  "format": "text over bake",
+  "photo": "croissant-sourdough-loaf-hero.jpg",
+  "text": "\"sorry, can't come out tonight. I have to feed my starter.\"",
+  "caption": "A real excuse. We've used it.",
+  "cta": "starter"
+ },
+ {
+  "id": "MEME-31",
+  "slug": "starter-name-puns",
+  "audience": "home bakers",
+  "format": "two-beat",
+  "photo": "sourdough-country-loaf-hero.jpg",
+  "text": "sourdough starter names that go hard:",
+  "photo2": "sourdough-rolls-flatlay.jpg",
+  "text2": "clint yeastwood. bread pitt. doughlly parton.",
+  "caption": "Yours? Best name in the comments wins bragging rights.",
+  "note": "Pun one-liners had the highest share rate in the meme research (median 0.29% shares per play)."
+ },
+ {
+  "id": "MEME-32",
+  "slug": "friday-night-family-bakery",
+  "audience": "locals",
+  "format": "text over bake",
+  "photo": "packed-orders-boxes-and-bags-lifestyle.jpg",
+  "text": "POV: friday night in a family bakery. nobody is going out. the dough is proofing.",
+  "caption": "Saturday's orders, packed with care. See you 8am.",
+  "cta": "order"
+ },
+ {
+  "id": "MEME-33",
+  "slug": "cookie-with-personality",
+  "audience": "locals",
+  "format": "bake edit",
+  "photo": "chocolate-chip-cookies-flatlay.jpg",
+  "text": "a cookie with personality",
+  "eyes": "465:760:585:760:42",
+  "look": "up",
+  "caption": "Chocolate chip cookies, box of 6, £4.25. Each one has opinions.",
+  "note": "Echoes cookiemookie_uk 'cookie with personality', 1.68% shares per play."
  }
 ]
