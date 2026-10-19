@@ -1,0 +1,45 @@
+{
+ "source": "WebSearch (Claude Code WebSearch tool) 2026-10-19. URLs and TikTok discover pages only; no engagement metrics. Discover pages are TikTok's own topic hubs and indicate search demand.",
+ "video_leads": [
+  "https://www.tiktok.com/@artisansourdoughbaker/video/7337128914940169477",
+  "https://www.tiktok.com/@vikinamusic/video/7308011933821570334"
+ ],
+ "tiktok_discover_and_tag_pages": [
+  "https://www.tiktok.com/tag/sourdoughmeme",
+  "https://www.tiktok.com/discover/sourdough-starter-memes",
+  "https://www.tiktok.com/discover/sourdough-funny-meme",
+  "https://www.tiktok.com/discover/sourdough-bread-memes",
+  "https://www.tiktok.com/discover/its-sourdough-and-gut-healthy-meme",
+  "https://www.tiktok.com/discover/sourdough-starter-alive-meme",
+  "https://www.tiktok.com/discover/ewhen-i-make-bread-meme",
+  "https://www.tiktok.com/discover/sourdough-cafe-meme",
+  "https://www.tiktok.com/discover/funny-names-for-sourdough-starter-names",
+  "https://www.tiktok.com/discover/clever-names-for-a-sourdough-starter",
+  "https://www.tiktok.com/discover/horror-sourdough-starter-names",
+  "https://www.tiktok.com/discover/puns-sourdough-starter-names",
+  "https://www.tiktok.com/discover/funny-discard-sourdough-names",
+  "https://www.tiktok.com/discover/the-office-inspired-sourdough-starter-names",
+  "https://www.tiktok.com/discover/sourdough-bread-funny",
+  "https://www.tiktok.com/discover/sourdough-bread-fail",
+  "https://www.tiktok.com/discover/sourdough-fails",
+  "https://www.tiktok.com/discover/memes-on-sourdough",
+  "https://www.tiktok.com/discover/sourdough-bread-guy-rant",
+  "https://www.tiktok.com/tag/sourdoughfails"
+ ],
+ "instagram_accounts_seen": [
+  "https://www.instagram.com/sourdough.meme/ (6 posts, 11 followers per search snippet)",
+  "https://www.instagram.com/memezsourdough/ (home bakery, not a meme page)"
+ ],
+ "articles": [
+  "https://www.today.com/today/amp/rcna213353 (bakers treat starters like pets; name examples)",
+  "https://thatsourdoughgal.com/best-sourdough-starter-names-ideas-inspiration/",
+  "https://www.pantrymama.com/best-sourdough-starter-names-the-ultimate-guide-to-naming-your-starter",
+  "https://thatsourdoughgal.com/people-are-holding-their-sourdough-bread-like-fish-and-its-weirdly-perfect/",
+  "https://www.socialmediatoday.com/news/instagram-shares-algorithm-insights-2025/738034/ (Mosseri: sends matter most for unconnected reach)",
+  "https://www.aol.com/article/lifestyle/2020/04/11/twitter-forms-scoldy-take-on-new-quarantine-trend-wasteful-and-difficult/23974188"
+ ],
+ "handles_not_found": [
+  "doughybyzoey (no web index hit; TikTok profile page returned statusCode 10221 = no such TikTok user)",
+  "sourdoughandgoods (no web index hit)"
+ ]
+}
