@@ -1,0 +1,62 @@
+[
+  {
+    "file": "2026-10-19_k08-pause-cinnamon-knot_captioned.mp4",
+    "concept": "K08",
+    "post_on": "2026-10-19",
+    "hook": "bet you can't PAUSE it on the middle knot",
+    "caption": "Paused it on the middle knot? Screenshot it and DM us for 10% off your first order.\n\nComment if you got it.\n\nCinnamon buns, hand-twisted, box of 6, £5.00.\n\nOrders close Thursday 5pm.\nCollection or local delivery in Medway, Saturday 8am to midday.\nORDER at the link in bio.",
+    "hashtags": ["#pauseattherighttime", "#cinnamonbuns", "#medway", "#kentbakery"],
+    "location": "Medway",
+    "ai_label": false,
+    "destination": "https://kongwabakes.com/#order",
+    "needs_approval": "10% first-order reward via DM screenshot"
+  },
+  {
+    "file": "2026-10-20_k03-meme-steam-sourdough_captioned.mp4",
+    "concept": "K03",
+    "post_on": "2026-10-20",
+    "hook": "me telling the family the loaf is for sunday",
+    "caption": "It never makes it to Sunday.\n\nSourdough country loaf, £5.50. Flour, water, salt and a few days.\n\nOrders close Thursday 5pm.\nCollection or local delivery in Medway, Saturday 8am to midday.\nORDER at the link in bio.",
+    "hashtags": ["#sourdough", "#medway", "#rochester", "#familybakery"],
+    "location": "Rochester",
+    "ai_label": false,
+    "destination": "https://kongwabakes.com/#order",
+    "needs_approval": "confirm the country loaf is exactly flour, water and salt (site says some loaves use wholemeal or rye)"
+  },
+  {
+    "file": "2026-10-21_k10-pause-roulette-saturday_captioned.mp4",
+    "concept": "K10",
+    "post_on": "2026-10-21",
+    "hook": "wherever you PAUSE is your saturday order",
+    "caption": "What did you land on? Comment it below.\n\nAll real bakes, all on this Saturday's menu.\n\nOrders close Thursday 5pm.\nCollection or local delivery in Medway, Saturday 8am to midday.\nORDER at the link in bio.",
+    "hashtags": ["#pausechallenge", "#medway", "#kentbakery", "#sourdough"],
+    "location": "Medway",
+    "ai_label": false,
+    "destination": "https://kongwabakes.com/#order",
+    "needs_approval": "confirm every item shown is on this week's menu at the price shown"
+  },
+  {
+    "file": "2026-10-22_k18-thursday-last-call_captioned.mp4",
+    "concept": "K18",
+    "post_on": "2026-10-22",
+    "hook": "orders close at 5pm TODAY",
+    "caption": "Last call for Saturday.\n\nOrders close at 5pm today.\nCollection or local delivery in Medway, Saturday 8am to midday.\nORDER at the link in bio.",
+    "hashtags": ["#medway", "#rochester", "#chatham", "#kentbakery"],
+    "location": "Medway",
+    "ai_label": false,
+    "destination": "https://kongwabakes.com/#order",
+    "needs_approval": "none beyond menu check"
+  },
+  {
+    "file": "2026-10-23_k08-pause-cookie_captioned.mp4",
+    "concept": "K08",
+    "post_on": "2026-10-23",
+    "hook": "bet you can't PAUSE it on the top cookie",
+    "caption": "Got the top cookie? Screenshot it and DM us for 10% off your first order.\n\nComment if you got it.\n\nChocolate chip cookies, box of 6, £4.25.\n\nOrders close Thursday 5pm.\nCollection or local delivery in Medway, Saturday 8am to midday.\nORDER at the link in bio.",
+    "hashtags": ["#pauseattherighttime", "#cookies", "#medway", "#kentbakery"],
+    "location": "Medway",
+    "ai_label": false,
+    "destination": "https://kongwabakes.com/#order",
+    "needs_approval": "10% first-order reward via DM screenshot. Note: Friday post means orders for the following Saturday (8 days out)."
+  }
+]
