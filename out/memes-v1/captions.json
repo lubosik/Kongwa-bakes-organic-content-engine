@@ -1,0 +1,506 @@
+[
+  {
+    "id": "MEME-01",
+    "file": "MEME-01_half-a-loaf-cow_captioned.mp4",
+    "audience": "home bakers",
+    "format": "character over bake",
+    "on_screen": "POV: you started baking sourdough to be healthy and now you eat half a loaf a day",
+    "caption": "Please tell me I'm not the only one.\n\nReal bakes from our family kitchen in Medway.\nOrders close Thursday 5pm, link in bio.",
+    "hashtags": [
+      "#sourdough",
+      "#sourdoughstarter",
+      "#bakingmemes",
+      "#sourdoughmemes"
+    ],
+    "location": "Medway",
+    "ai_label": true,
+    "destination_cta": "default",
+    "check": ""
+  },
+  {
+    "id": "MEME-02",
+    "file": "MEME-02_focaccia-one-slice-cow_captioned.mp4",
+    "audience": "home bakers and locals",
+    "format": "character over bake",
+    "on_screen": "me after \"just one slice\" of warm focaccia",
+    "caption": "It was one slice. Then it was the edges. Then it was gone.\n\nReal bakes from our family kitchen in Medway.\nOrders close Thursday 5pm, link in bio.",
+    "hashtags": [
+      "#sourdough",
+      "#bakingmemes",
+      "#medway",
+      "#kentbakery"
+    ],
+    "location": "Medway",
+    "ai_label": true,
+    "destination_cta": "default",
+    "check": ""
+  },
+  {
+    "id": "MEME-03",
+    "file": "MEME-03_cake-serves-20-cow_captioned.mp4",
+    "audience": "cake buyers",
+    "format": "character over bake",
+    "on_screen": "the cake serves 20. my family of 4:",
+    "caption": "Celebration cakes from £45, serve about 20. Allegedly.\n\nCelebration cakes need 10 days.\nTell us about yours at the link in bio.",
+    "hashtags": [
+      "#birthdaycake",
+      "#medway",
+      "#kentbakery",
+      "#bakingmemes"
+    ],
+    "location": "Medway",
+    "ai_label": true,
+    "destination_cta": "cakes",
+    "check": ""
+  },
+  {
+    "id": "MEME-04",
+    "file": "MEME-04_cinnamon-buns-car-park-cow_captioned.mp4",
+    "audience": "locals",
+    "format": "character over bake",
+    "on_screen": "me in the car park after collecting the cinnamon buns \"for the family\"",
+    "caption": "They were for the family. The family got four.\n\nReal bakes from our family kitchen in Medway.\nOrders close Thursday 5pm, link in bio.",
+    "hashtags": [
+      "#medway",
+      "#kentbakery",
+      "#bakingmemes",
+      "#rochester"
+    ],
+    "location": "Medway",
+    "ai_label": true,
+    "destination_cta": "default",
+    "check": ""
+  },
+  {
+    "id": "MEME-05",
+    "file": "MEME-05_banana-loaf-small-slice-cow_captioned.mp4",
+    "audience": "locals",
+    "format": "character over bake",
+    "on_screen": "me after one \"small\" slice of banana loaf",
+    "caption": "Small is a state of mind.\n\nReal bakes from our family kitchen in Medway.\nOrders close Thursday 5pm, link in bio.",
+    "hashtags": [
+      "#medway",
+      "#kentbakery",
+      "#bakingmemes",
+      "#rochester"
+    ],
+    "location": "Medway",
+    "ai_label": true,
+    "destination_cta": "default",
+    "check": ""
+  },
+  {
+    "id": "MEME-06",
+    "file": "MEME-06_2am-proof-check-cow_captioned.mp4",
+    "audience": "home bakers",
+    "format": "character over bake",
+    "on_screen": "me waddling to the kitchen at 2am to check if the dough has proofed",
+    "caption": "It had not proofed. I went back to bed. I came back at 3.\n\nReal bakes from our family kitchen in Medway.\nOrders close Thursday 5pm, link in bio.",
+    "hashtags": [
+      "#sourdough",
+      "#sourdoughstarter",
+      "#bakingmemes",
+      "#sourdoughmemes"
+    ],
+    "location": "Medway",
+    "ai_label": true,
+    "destination_cta": "default",
+    "check": ""
+  },
+  {
+    "id": "MEME-07",
+    "file": "MEME-07_starter-name_captioned.mp4",
+    "audience": "home bakers",
+    "format": "text over bake",
+    "on_screen": "naming your sourdough starter took longer than naming your actual children",
+    "caption": "Drop your starter's name below. Ours has one and we are not telling.\n\nStarting a starter? Our free guide is on kongwabakes.com/sourdough/starter-guide/",
+    "hashtags": [
+      "#sourdough",
+      "#sourdoughstarter",
+      "#bakingmemes",
+      "#sourdoughmemes"
+    ],
+    "location": "Medway",
+    "ai_label": false,
+    "destination_cta": "starter",
+    "check": ""
+  },
+  {
+    "id": "MEME-08",
+    "file": "MEME-08_starter-routine_captioned.mp4",
+    "audience": "home bakers",
+    "format": "text over bake",
+    "on_screen": "my starter has a name, a feeding schedule and a better routine than me",
+    "caption": "Fed twice a day. Never misses. Unlike me.\n\nStarting a starter? Our free guide is on kongwabakes.com/sourdough/starter-guide/",
+    "hashtags": [
+      "#sourdough",
+      "#sourdoughstarter",
+      "#bakingmemes",
+      "#sourdoughmemes"
+    ],
+    "location": "Medway",
+    "ai_label": false,
+    "destination_cta": "starter",
+    "check": ""
+  },
+  {
+    "id": "MEME-09",
+    "file": "MEME-09_day-four_captioned.mp4",
+    "audience": "home bakers",
+    "format": "two-beat",
+    "on_screen": "day 4 of your first starter: \"it's dead\" / it's not dead. it's day 4. keep feeding it.",
+    "caption": "Day four is where most starters get thrown away. Do not. It is a normal dip, and it comes back.\n\nStarting a starter? Our free guide is on kongwabakes.com/sourdough/starter-guide/",
+    "hashtags": [
+      "#sourdough",
+      "#sourdoughstarter",
+      "#bakingmemes",
+      "#sourdoughmemes"
+    ],
+    "location": "Medway",
+    "ai_label": false,
+    "destination_cta": "starter",
+    "check": ""
+  },
+  {
+    "id": "MEME-10",
+    "file": "MEME-10_three-days-four-minutes_captioned.mp4",
+    "audience": "home bakers and locals",
+    "format": "two-beat",
+    "on_screen": "the 3 days it takes to make one sourdough loaf / the 4 minutes it takes the family to finish it",
+    "caption": "Three days of fermenting. Four minutes of silence at the table.\n\nReal bakes from our family kitchen in Medway.\nOrders close Thursday 5pm, link in bio.",
+    "hashtags": [
+      "#sourdough",
+      "#bakingmemes",
+      "#medway",
+      "#kentbakery"
+    ],
+    "location": "Medway",
+    "ai_label": false,
+    "destination_cta": "default",
+    "check": ""
+  },
+  {
+    "id": "MEME-11",
+    "file": "MEME-11_just-flour-water-salt_captioned.mp4",
+    "audience": "home bakers",
+    "format": "two-beat",
+    "on_screen": "\"it's just flour, water and salt\" / then why did it take three days and my whole weekend",
+    "caption": "Three ingredients. Unlimited patience.\n\nReal bakes from our family kitchen in Medway.\nOrders close Thursday 5pm, link in bio.",
+    "hashtags": [
+      "#sourdough",
+      "#sourdoughstarter",
+      "#bakingmemes",
+      "#sourdoughmemes"
+    ],
+    "location": "Medway",
+    "ai_label": false,
+    "destination_cta": "default",
+    "check": "Only say flour, water and salt for loaves where that is the exact recipe."
+  },
+  {
+    "id": "MEME-12",
+    "file": "MEME-12_hydration-party_captioned.mp4",
+    "audience": "home bakers",
+    "format": "two-beat",
+    "on_screen": "nobody: / sourdough people at every party: \"so what hydration are you running\"",
+    "caption": "Ours depends on the loaf. Ask us at collection.\n\nReal bakes from our family kitchen in Medway.\nOrders close Thursday 5pm, link in bio.",
+    "hashtags": [
+      "#sourdough",
+      "#sourdoughstarter",
+      "#bakingmemes",
+      "#sourdoughmemes"
+    ],
+    "location": "Medway",
+    "ai_label": false,
+    "destination_cta": "default",
+    "check": ""
+  },
+  {
+    "id": "MEME-13",
+    "file": "MEME-13_hot-loaf-cut_captioned.mp4",
+    "audience": "home bakers",
+    "format": "text over bake",
+    "on_screen": "when someone cuts the sourdough while it's still hot",
+    "caption": "Let it cool. An hour. We know. We know.\n\nReal bakes from our family kitchen in Medway.\nOrders close Thursday 5pm, link in bio.",
+    "hashtags": [
+      "#sourdough",
+      "#sourdoughstarter",
+      "#bakingmemes",
+      "#sourdoughmemes"
+    ],
+    "location": "Medway",
+    "ai_label": false,
+    "destination_cta": "default",
+    "check": ""
+  },
+  {
+    "id": "MEME-14",
+    "file": "MEME-14_newborn-dough_captioned.mp4",
+    "audience": "home bakers",
+    "format": "text over bake",
+    "on_screen": "me checking on the dough every 20 minutes like it's a newborn",
+    "caption": "It is fine. It was fine twenty minutes ago.\n\nReal bakes from our family kitchen in Medway.\nOrders close Thursday 5pm, link in bio.",
+    "hashtags": [
+      "#sourdough",
+      "#sourdoughstarter",
+      "#bakingmemes",
+      "#sourdoughmemes"
+    ],
+    "location": "Medway",
+    "ai_label": false,
+    "destination_cta": "default",
+    "check": ""
+  },
+  {
+    "id": "MEME-15",
+    "file": "MEME-15_discard-guilt_captioned.mp4",
+    "audience": "home bakers",
+    "format": "text over bake",
+    "on_screen": "throwing away 100g of discard every day like flour grows on trees",
+    "caption": "What do you do with yours? Best answer gets a shout out.\n\nStarting a starter? Our free guide is on kongwabakes.com/sourdough/starter-guide/",
+    "hashtags": [
+      "#sourdough",
+      "#sourdoughstarter",
+      "#bakingmemes",
+      "#sourdoughmemes"
+    ],
+    "location": "Medway",
+    "ai_label": false,
+    "destination_cta": "starter",
+    "check": ""
+  },
+  {
+    "id": "MEME-16",
+    "file": "MEME-16_bread-at-home_captioned.mp4",
+    "audience": "locals",
+    "format": "two-beat",
+    "on_screen": "mum: we have bread at home / the bread at home:",
+    "caption": "When your mum runs a bakery, the bread at home goes hard. In a good way.\n\nReal bakes from our family kitchen in Medway.\nOrders close Thursday 5pm, link in bio.",
+    "hashtags": [
+      "#medway",
+      "#kentbakery",
+      "#bakingmemes",
+      "#rochester"
+    ],
+    "location": "Medway",
+    "ai_label": false,
+    "destination_cta": "default",
+    "check": ""
+  },
+  {
+    "id": "MEME-17",
+    "file": "MEME-17_four-fifty-nine_captioned.mp4",
+    "audience": "locals",
+    "format": "text over bake",
+    "on_screen": "me at 4:59pm on a thursday adding one more thing to the basket",
+    "caption": "Orders close at 5pm Thursday. We see you.\n\nOrders close Thursday 5pm.\nCollection or local delivery in Medway, Saturday 8am to midday.\nORDER at the link in bio.",
+    "hashtags": [
+      "#medway",
+      "#kentbakery",
+      "#bakingmemes",
+      "#rochester"
+    ],
+    "location": "Medway",
+    "ai_label": false,
+    "destination_cta": "order",
+    "check": ""
+  },
+  {
+    "id": "MEME-18",
+    "file": "MEME-18_its-homemade_captioned.mp4",
+    "audience": "cake buyers",
+    "format": "text over bake",
+    "on_screen": "\"it's homemade\" (it was made in a home. just not mine)",
+    "caption": "We won't tell. Celebration cakes need 10 days' notice.\n\nCelebration cakes need 10 days.\nTell us about yours at the link in bio.",
+    "hashtags": [
+      "#birthdaycake",
+      "#medway",
+      "#kentbakery",
+      "#bakingmemes"
+    ],
+    "location": "Medway",
+    "ai_label": false,
+    "destination_cta": "cakes",
+    "check": ""
+  },
+  {
+    "id": "MEME-19",
+    "file": "MEME-19_friday-hero_captioned.mp4",
+    "audience": "office managers",
+    "format": "text over bake",
+    "on_screen": "being the one who brings a box of cupcakes into the office on friday",
+    "caption": "Office orders and events: tell us what you need at the link in bio.\n\nEvents need 14 days.\nTell us what you need at the link in bio.",
+    "hashtags": [
+      "#officetreats",
+      "#medway",
+      "#kentbakery",
+      "#fridayfeeling"
+    ],
+    "location": "Medway",
+    "ai_label": false,
+    "destination_cta": "catering",
+    "check": ""
+  },
+  {
+    "id": "MEME-20",
+    "file": "MEME-20_saturday-alarm_captioned.mp4",
+    "audience": "locals",
+    "format": "text over bake",
+    "on_screen": "saturday 8am. the only alarm I don't snooze.",
+    "caption": "Collection and local delivery, Saturday 8am to midday.\n\nOrders close Thursday 5pm.\nCollection or local delivery in Medway, Saturday 8am to midday.\nORDER at the link in bio.",
+    "hashtags": [
+      "#medway",
+      "#kentbakery",
+      "#bakingmemes",
+      "#rochester"
+    ],
+    "location": "Medway",
+    "ai_label": false,
+    "destination_cta": "order",
+    "check": ""
+  },
+  {
+    "id": "MEME-21",
+    "file": "MEME-21_burger-night_captioned.mp4",
+    "audience": "locals",
+    "format": "text over bake",
+    "on_screen": "brioche buns turning a normal tuesday burger into a whole event",
+    "caption": "Brioche buns, box of 6, £5.50. Freeze well. Not that they last.\n\nReal bakes from our family kitchen in Medway.\nOrders close Thursday 5pm, link in bio.",
+    "hashtags": [
+      "#medway",
+      "#kentbakery",
+      "#bakingmemes",
+      "#rochester"
+    ],
+    "location": "Medway",
+    "ai_label": false,
+    "destination_cta": "default",
+    "check": ""
+  },
+  {
+    "id": "MEME-22",
+    "file": "MEME-22_last-cookie-eyes_captioned.mp4",
+    "audience": "locals",
+    "format": "bake edit",
+    "on_screen": "the last cookie in the box when it hears you get home",
+    "caption": "It knows. It always knows.\n\nReal bakes from our family kitchen in Medway.\nOrders close Thursday 5pm, link in bio.",
+    "hashtags": [
+      "#medway",
+      "#kentbakery",
+      "#bakingmemes",
+      "#rochester"
+    ],
+    "location": "Medway",
+    "ai_label": false,
+    "destination_cta": "default",
+    "check": ""
+  },
+  {
+    "id": "MEME-23",
+    "file": "MEME-23_knot-watching-eyes_captioned.mp4",
+    "audience": "locals",
+    "format": "bake edit",
+    "on_screen": "the cinnamon bun watching you say \"I'm being good this week\"",
+    "caption": "Sure you are.\n\nReal bakes from our family kitchen in Medway.\nOrders close Thursday 5pm, link in bio.",
+    "hashtags": [
+      "#medway",
+      "#kentbakery",
+      "#bakingmemes",
+      "#rochester"
+    ],
+    "location": "Medway",
+    "ai_label": false,
+    "destination_cta": "default",
+    "check": ""
+  },
+  {
+    "id": "MEME-24",
+    "file": "MEME-24_pretzel-eyes_captioned.mp4",
+    "audience": "locals",
+    "format": "bake edit",
+    "on_screen": "the pretzel when you said you'd share",
+    "caption": "Pretzels, £3.25 each. Buy two. Save a friendship.\n\nReal bakes from our family kitchen in Medway.\nOrders close Thursday 5pm, link in bio.",
+    "hashtags": [
+      "#medway",
+      "#kentbakery",
+      "#bakingmemes",
+      "#rochester"
+    ],
+    "location": "Medway",
+    "ai_label": false,
+    "destination_cta": "default",
+    "check": ""
+  },
+  {
+    "id": "MEME-25",
+    "file": "MEME-25_medway-seagull-loaf_captioned.mp4",
+    "audience": "locals",
+    "format": "character over bake",
+    "on_screen": "medway seagulls when you walk out of collection with a fresh loaf",
+    "caption": "Hold it with both hands. We have seen things.\n\nOrders close Thursday 5pm.\nCollection or local delivery in Medway, Saturday 8am to midday.\nORDER at the link in bio.",
+    "hashtags": [
+      "#medway",
+      "#kentbakery",
+      "#bakingmemes",
+      "#rochester"
+    ],
+    "location": "Medway",
+    "ai_label": true,
+    "destination_cta": "order",
+    "check": ""
+  },
+  {
+    "id": "MEME-26",
+    "file": "MEME-26_seagull-pretzel_captioned.mp4",
+    "audience": "locals",
+    "format": "character over bake",
+    "on_screen": "the seagull that watched you eat a pretzel on the high street",
+    "caption": "He is not sorry. He will be back.\n\nReal bakes from our family kitchen in Medway.\nOrders close Thursday 5pm, link in bio.",
+    "hashtags": [
+      "#medway",
+      "#kentbakery",
+      "#bakingmemes",
+      "#rochester"
+    ],
+    "location": "Medway",
+    "ai_label": true,
+    "destination_cta": "default",
+    "check": ""
+  },
+  {
+    "id": "MEME-27",
+    "file": "MEME-27_seagull-after-cookies_captioned.mp4",
+    "audience": "locals",
+    "format": "character over bake",
+    "on_screen": "me after \"sharing\" the cookies with the kids",
+    "caption": "Box of 6. Split it fairly. (We know you won't.)\n\nReal bakes from our family kitchen in Medway.\nOrders close Thursday 5pm, link in bio.",
+    "hashtags": [
+      "#medway",
+      "#kentbakery",
+      "#bakingmemes",
+      "#rochester"
+    ],
+    "location": "Medway",
+    "ai_label": true,
+    "destination_cta": "default",
+    "check": ""
+  },
+  {
+    "id": "MEME-28",
+    "file": "MEME-28_seagull-cupcakes_captioned.mp4",
+    "audience": "cake buyers",
+    "format": "character over bake",
+    "on_screen": "me walking back from the kitchen after \"just checking\" the party cupcakes",
+    "caption": "Cupcakes, box of 6. Count them before the party.\n\nReal bakes from our family kitchen in Medway.\nOrders close Thursday 5pm, link in bio.",
+    "hashtags": [
+      "#birthdaycake",
+      "#medway",
+      "#kentbakery",
+      "#bakingmemes"
+    ],
+    "location": "Medway",
+    "ai_label": true,
+    "destination_cta": "default",
+    "check": ""
+  }
+]
