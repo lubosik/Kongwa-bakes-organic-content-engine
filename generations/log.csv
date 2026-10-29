@@ -10,3 +10,5 @@ date,concept,model,prompt,references_used,credits,pass_fail,reason
 2026-10-29,HW-04 A ring and hide,kling3_0,"doorbell cam: ghost kid rings, runs, hides behind wheelie bin, 9:16 5s",none,6.25,pass,"beats followed exactly"
 2026-10-29,HW-04 C hallway jump,kling3_0,"hallway cam: uncle walks to kitchen, ghost kid jumps out, 9:16 5s",none,6.25,pending QA,""
 2026-10-29,HW-04 B uncle comes out,kling3_0,"start_image = A last frame; uncle opens door, looks around, kid sneaks in behind him, 9:16 10s",A last frame,12.5,pending QA,""
+2026-10-29,HW-04 B v2 uncle back turned,kling3_0,"start_image A last frame; explicit timeline, kid fully inside before uncle turns",A last frame,12.5,pending QA,"v1 failed: uncle turned while kid was still sneaking in"
+2026-10-29,HW-04 C v2 kitchen corner cam,kling3_0,"kitchen cam; ghost crouched beside doorway out of uncle sightline; jumps as he steps in",none,6.25,pending QA,"v1 failed: ghost visible standing in the doorway"
