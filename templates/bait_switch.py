@@ -169,6 +169,15 @@ def synth_audio(path, cut, total, rate=48000):
         w.writeframes(np.repeat(pcm[:, None], 2, axis=1).tobytes())
 
 
+def punch_filter(spec, dur, length=0.35, amount=0.9):
+    """Zoom fast towards a point in the last `length` seconds: reads as the jump-out, then the glitch hits."""
+    px, py = (float(v) for v in spec.split(":"))
+    t0 = dur - length
+    z = f"(1+{amount}*pow(max(0,t-{t0})/{length},2))"
+    return (f"scale=w='trunc({W}*{z}/2)*2':h='trunc({H}*{z}/2)*2':eval=frame,"
+            f"crop={W}:{H}:x='(in_w-{W})*{px}':y='(in_h-{H})*{py}',")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("bait")
@@ -185,6 +194,8 @@ def main():
     ap.add_argument("--cta", default="ORDER at the link in bio")
     ap.add_argument("--end-s", type=float, default=2.0)
     ap.add_argument("--cam", default="FRONT DOOR", help="camera name in the HUD for the first bait shot")
+    ap.add_argument("--punch", default="", metavar="X:Y",
+                    help="fake the jump: fast zoom towards X:Y (0 to 1 of the frame) over the last 0.35s of the bait")
     ap.add_argument("--then", action="append", default=[], metavar="FILE|START|END|CAM[|STAMP]",
                     help="further bait shots, hard-cut in order; the switch happens at the END of the last one")
     a = ap.parse_args()
@@ -216,7 +227,9 @@ def main():
                 "ffmpeg", "-nostdin", "-v", "error", "-y", "-ss", str(st), "-t", str(dur), "-i", src,
                 "-loop", "1", "-i", ovl_path, "-filter_complex",
                 f"[0:v]fps={FPS},scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},setsar=1,"
-                f"rgbashift=rh=-18:bh=18:enable='gte(t,{g0})',noise=alls=60:allf=t:enable='gte(t,{g0})',"
+                + ("hue=s=0," if a.hud == "doorbell" else "")  # night-vision shots all match in black and white
+                + (punch_filter(a.punch, dur) if last and a.punch else "")
+                + f"rgbashift=rh=-18:bh=18:enable='gte(t,{g0})',noise=alls=60:allf=t:enable='gte(t,{g0})',"
                 f"format=rgba[b];[b][1:v]overlay=0:0:shortest=1,format=yuv420p[v]",
                 "-map", "[v]", "-t", str(dur), "-an", "-c:v", "libx264", "-crf", "16", "-preset", "fast", part],
                 check=True)

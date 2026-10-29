@@ -2,7 +2,8 @@
 
 | File | Status | Notes |
 |---|---|---|
-| `HW-03_ditch-and-sneak-in_captioned.mp4` | **for review** | Rebuilt on Bosi's note (29 Oct): kid in a ghost sheet rings the bell and hides, dad walks out looking, the ghost slips in behind him; hallway cam two minutes later, dad walks towards the ghost; cut as it rises. Switch at 12.2s of 20.6s (59%, inside the 50 to 64% range we measured). |
+| `HW-04_uncle-ditch-too-far_captioned.mp4` | **for review (latest)** | Bosi's 7 beats, one simple job per AI shot: (A) ghost kid rings, runs, hides behind the bin; (B, generated from A's last frame for continuity) African uncle steps out and looks around, the kid sneaks in behind his back; (C) hallway cam, uncle walks to the kitchen, the ghost waits; a punch-in plays the jump and we cut before he reacts. Switch at 16.4s of 24.8s. CTA: ORDER at the link in bio. |
+| `HW-03_ditch-and-sneak-in_captioned.mp4` | superseded by HW-04 | Rebuilt on Bosi's note (29 Oct): kid in a ghost sheet rings the bell and hides, dad walks out looking, the ghost slips in behind him; hallway cam two minutes later, dad walks towards the ghost; cut as it rises. Switch at 12.2s of 20.6s (59%, inside the 50 to 64% range we measured). |
 | `HW-01_doorbell-ditch_captioned.mp4` | superseded | v1: the ghost vanishes and the door opens on its own. Bosi: hard to follow. |
 | `HW-02_hallway-3am_captioned.mp4` | superseded | v1: just a hand round a door. Bosi: hard to follow. |
 
@@ -37,3 +38,11 @@ Halloween is Saturday 31 October. Normal orders for that Saturday closed at **5p
 - Obviously content from frame 1: POV hook and KB label from the first frame, AI label on.
 - Stakes are play: a ghost-sheet prank, no weapon, no injury, no break-in; the kid walks in through an open door at home. Nobody is shown scared (we cut before the scare).
 - No real or identifiable people. Real food only after the switch.
+
+## HW-04
+
+- **Hook, frame 1:** "POV: you ding dong ditch your african uncle but take it way too far"
+- **Switch:** "POV: this prank got you, so now you owe us a halloween brownie"
+- **End card:** "halloween treats from our family kitchen" / "ORDER at the link in bio"
+- **AI:** shots A, B, C (Higgsfield Kling 3.0: 6.25 + 12.5 + 6.25 credits). AI label on.
+- **Caption:** "wait for it 👻 / Our Halloween brownies and cupcakes, baked in our family kitchen in Medway. / ORDER at the link in bio." Hashtags: #halloween #halloweenprank #dingdongditch #medway #kentbakery
