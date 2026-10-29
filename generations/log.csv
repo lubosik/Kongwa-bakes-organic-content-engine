@@ -5,3 +5,5 @@ date,concept,model,prompt,references_used,credits,pass_fail,reason
 2026-10-19,MEME seagull,kling3_0,"very fat cartoonish herring gull, waddle on the spot, solid green chroma background, locked-off, 9:16 5s std no sound",none,6.25,pending QA,"reusable green-screen meme character (Medway)"
 2026-10-29,HW-02 hallway jump scare,kling3_0,"handheld phone torch dark hallway, door creaks, pale fingers curl round the door, 9:16 5s std no sound",none,6.25,pending QA,"Halloween bait"
 2026-10-29,HW-01 doorbell ding dong ditch,kling3_0,"doorbell cam night vision, masked trick-or-treaters ring and run, cloaked figure steps out behind them, 9:16 10s std no sound",none,12.5,pending QA,"Halloween bait"
+2026-10-29,HW-03 shot 1 doorbell sneak-in,kling3_0,"doorbell cam B&W, ghost kid rings and hides by bin, man walks out, kid sneaks in, man returns, 9:16 10s",none,12.5,pending QA,""
+2026-10-29,HW-03 shot 2 hallway hide,kling3_0,"indoor corner cam B&W, man walks hallway, ghost kid crouched behind kitchen door ready to jump, 9:16 5s",none,6.25,pending QA,""

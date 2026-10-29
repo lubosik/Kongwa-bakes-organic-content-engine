@@ -113,9 +113,21 @@ def end_card(line, cta):
     d = ImageDraw.Draw(im)
     f1 = ImageFont.truetype(FRAUNCES_I, 64)
     f2 = ImageFont.truetype(MULISH, 40)
-    for i, (txt, f, col) in enumerate([(line, f1, (0xFB, 0xF3, 0xE2)), (cta, f2, (0xE3, 0x9A, 0x3B))]):
-        tw = d.textlength(txt, font=f)
-        d.text(((W - tw) / 2, 1020 + i * 100), txt, font=f, fill=col)
+    # wrap the line inside the safe zone, then the CTA underneath
+    words, rows, cur = line.split(), [], ""
+    for w_ in words:
+        t = (cur + " " + w_).strip()
+        if d.textlength(t, font=f1) > SAFE_X1 - SAFE_X0:
+            rows.append(cur)
+            cur = w_
+        else:
+            cur = t
+    rows.append(cur)
+    y = 1010
+    for row in rows:
+        d.text(((W - d.textlength(row, font=f1)) / 2, y), row, font=f1, fill=(0xFB, 0xF3, 0xE2))
+        y += 80
+    d.text(((W - d.textlength(cta, font=f2)) / 2, y + 30), cta, font=f2, fill=(0xE3, 0x9A, 0x3B))
     return im
 
 
@@ -173,22 +185,22 @@ def main():
     ap.add_argument("--cta", default="ORDER at the link in bio")
     ap.add_argument("--end-s", type=float, default=2.0)
     ap.add_argument("--cam", default="FRONT DOOR", help="camera name in the HUD for the first bait shot")
-    ap.add_argument("--then", action="append", default=[], metavar="FILE:START:END:CAM",
+    ap.add_argument("--then", action="append", default=[], metavar="FILE|START|END|CAM[|STAMP]",
                     help="further bait shots, hard-cut in order; the switch happens at the END of the last one")
     a = ap.parse_args()
 
-    segs = [(a.bait, a.bait_start, a.cut, a.cam)]
+    segs = [(a.bait, a.bait_start, a.cut, a.cam, a.stamp)]
     for spec in a.then:
-        f, st, en, cam = spec.rsplit(":", 3)
-        segs.append((f, float(st), float(en), cam))
-    cut = sum(en - st for _, st, en, _ in segs)
+        f, st, en, cam, *stamp = spec.split("|")
+        segs.append((f, float(st), float(en), cam, stamp[0] if stamp else a.stamp))
+    cut = sum(seg[2] - seg[1] for seg in segs)
     with tempfile.TemporaryDirectory() as tmp:
         parts = []
-        for si, (src, st, en, cam) in enumerate(segs):
+        for si, (src, st, en, cam, stamp) in enumerate(segs):
             # Overlays: hook (meme box style, held across every bait shot), KB label, optional HUD per camera.
             ovl, _ = text_box(a.hook, FRAUNCES, 54, 26, 390 if a.hud == "doorbell" else 300)
             if a.hud == "doorbell":
-                hud = hud_doorbell(a.stamp, cam)
+                hud = hud_doorbell(stamp, cam)
                 hud.alpha_composite(ovl)
                 ovl = hud
             lg = logo(96)
