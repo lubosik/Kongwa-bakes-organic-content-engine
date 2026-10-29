@@ -32,10 +32,11 @@ Inside it, create these six subfolders, numbered so they always sort in workflow
 | 04 | Feedback | One note per video: Bosi's review, what to change, the decision (approve, edit, kill). | Bosi |
 | 05 | Audios | Our own stings (Gotcha, Psych, whoosh), voiceovers, licensed music from TikTok's Commercial Music Library, ElevenLabs sound effects. Never other creators' audio. | Editor |
 | 06 | Winners | Copies of the posts that beat the winner bar (section 5), with their numbers, so we can recreate them. | Claude, every Monday review |
+| | Raw Pictures | Our own unedited bake photos straight off the phone, ready to post or to use in videos (added by Bosi, 29 Oct 2026). Copied into the repo at `assets/library/raw-YYYY-MM-DD/`. | Whoever took them |
 
 Add a Google Doc at the top level called `00 SOP: How this folder works` with a copy of this SOP, so anyone opening the folder knows the rules.
 
-Folders we may add later (not yet): `07 Photos`, `08 Covers and thumbnails`, `09 Scripts`.
+Folders we may add later (not yet): `08 Covers and thumbnails`, `09 Scripts`.
 
 ---
 
@@ -108,3 +109,4 @@ Every month, the top 3 winners get remade as a new variant (new bake, same mecha
 - [04 Feedback](https://drive.google.com/drive/folders/1_UxGAKfKZT9Dj9Id6UINyrhQFi14lGO8)
 - [05 Audios](https://drive.google.com/drive/folders/1uBjgnAIswLEvP-jSNx5Lj_p8eY_CjHqB)
 - [06 Winners](https://drive.google.com/drive/folders/1C6xSRcnTDTva62lJKKmMCN54zG-c10iH)
+- [Raw Pictures](https://drive.google.com/drive/folders/1-3s0Z1WZdlqO3nJnjCjGJ8NPiZqR613v)
