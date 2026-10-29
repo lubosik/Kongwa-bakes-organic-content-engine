@@ -169,9 +169,12 @@ def synth_audio(path, cut, total, rate=48000):
         w.writeframes(np.repeat(pcm[:, None], 2, axis=1).tobytes())
 
 
-def punch_filter(spec, dur, length=0.35, amount=0.9):
-    """Zoom fast towards a point in the last `length` seconds: reads as the jump-out, then the glitch hits."""
-    px, py = (float(v) for v in spec.split(":"))
+def punch_filter(spec, dur, length=0.35):
+    """Zoom fast towards a point in the last `length` seconds: reads as the jump-out, then the glitch hits.
+    spec is X:Y[:AMOUNT], X and Y from 0 to 1 of the frame, AMOUNT the extra zoom at the end (default 0.45)."""
+    vals = [float(v) for v in spec.split(":")]
+    px, py = vals[0], vals[1]
+    amount = vals[2] if len(vals) > 2 else 0.45
     t0 = dur - length
     z = f"(1+{amount}*pow(max(0,t-{t0})/{length},2))"
     return (f"scale=w='trunc({W}*{z}/2)*2':h='trunc({H}*{z}/2)*2':eval=frame,"
@@ -194,7 +197,7 @@ def main():
     ap.add_argument("--cta", default="ORDER at the link in bio")
     ap.add_argument("--end-s", type=float, default=2.0)
     ap.add_argument("--cam", default="FRONT DOOR", help="camera name in the HUD for the first bait shot")
-    ap.add_argument("--punch", default="", metavar="X:Y",
+    ap.add_argument("--punch", default="", metavar="X:Y[:AMOUNT]",
                     help="fake the jump: fast zoom towards X:Y (0 to 1 of the frame) over the last 0.35s of the bait")
     ap.add_argument("--then", action="append", default=[], metavar="FILE|START|END|CAM[|STAMP]",
                     help="further bait shots, hard-cut in order; the switch happens at the END of the last one")
