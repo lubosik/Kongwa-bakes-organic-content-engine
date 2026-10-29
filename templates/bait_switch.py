@@ -169,6 +169,50 @@ def synth_audio(path, cut, total, rate=48000):
         w.writeframes(np.repeat(pcm[:, None], 2, axis=1).tobytes())
 
 
+def decode(path, rate=48000):
+    raw = subprocess.run(["ffmpeg", "-nostdin", "-v", "error", "-i", path, "-f", "f32le", "-ac", "1", "-ar", str(rate), "-"],
+                         capture_output=True, check=True).stdout
+    return np.frombuffer(raw, np.float32).astype(np.float64)
+
+
+def foley_audio(path, cut, total, specs, ambience, tmp, rate=48000):
+    """Real sounds on the bait timeline, ambience looped under it, dead air at the cut, then a boom.
+    After the boom the track stays quiet: the trending sound goes on in the app."""
+    n = int(total * rate)
+    out = np.zeros(n)
+    end_bait = int((cut - 0.07) * rate)
+    if ambience:
+        amb = decode(ambience, rate)
+        if len(amb):
+            # crossfade-loop the bed so a short clip becomes a steady room tone
+            reps = int(np.ceil(end_bait / len(amb))) + 1
+            bed = np.tile(amb, reps)[:end_bait]
+            out[:end_bait] += bed * 10 ** (-3 / 20)
+    for spec in specs:
+        f, at, *g = spec.split("@")
+        clip = decode(f, rate) * 10 ** ((float(g[0]) if g else 0) / 20)
+        i0 = int(float(at) * rate)
+        i1 = min(end_bait, i0 + len(clip))
+        if i1 > i0:
+            out[i0:i1] += clip[: i1 - i0]
+    fade = int(0.07 * rate)
+    out[end_bait:end_bait + fade] = 0
+    # boom on the switch, same as the synthetic version
+    hit = int((cut + 0.12) * rate)
+    L = int(1.6 * rate)
+    k_ = np.arange(L) / rate
+    boom = np.exp(-k_ / 0.35) * np.sin(2 * np.pi * (42 + 60 * np.exp(-k_ / 0.05)) * k_)
+    e = min(n, hit + L)
+    out[hit:e] += 0.9 * boom[: e - hit] * max(1e-9, np.abs(out[:end_bait]).max() or 1)
+    out = np.clip(out / max(1e-9, np.abs(out).max()) * 0.9, -1, 1)
+    pcm = (out * 32767).astype(np.int16)
+    with wave.open(path, "wb") as w:
+        w.setnchannels(2)
+        w.setsampwidth(2)
+        w.setframerate(rate)
+        w.writeframes(np.repeat(pcm[:, None], 2, axis=1).tobytes())
+
+
 def punch_filter(spec, dur, length=0.35):
     """Zoom fast towards a point in the last `length` seconds: reads as the jump-out, then the glitch hits.
     spec is X:Y[:AMOUNT], X and Y from 0 to 1 of the frame, AMOUNT the extra zoom at the end (default 0.45)."""
@@ -196,6 +240,11 @@ def main():
     ap.add_argument("--end", default="halloween treats from our family kitchen")
     ap.add_argument("--cta", default="ORDER at the link in bio")
     ap.add_argument("--end-s", type=float, default=2.0)
+    ap.add_argument("--no-bait-logo", action="store_true",
+                    help="no KB label during the bait, so it plays as a normal prank video; the brand lands at the switch")
+    ap.add_argument("--foley", action="append", default=[], metavar="FILE@SECONDS[@GAIN_DB]",
+                    help="real sound placed on the bait timeline (replaces the synthetic drone and heartbeat)")
+    ap.add_argument("--ambience", default="", help="sound bed looped under the whole bait (with --foley)")
     ap.add_argument("--cam", default="FRONT DOOR", help="camera name in the HUD for the first bait shot")
     ap.add_argument("--punch", default="", metavar="X:Y[:AMOUNT]",
                     help="fake the jump: fast zoom towards X:Y (0 to 1 of the frame) over the last 0.35s of the bait")
@@ -217,8 +266,9 @@ def main():
                 hud = hud_doorbell(stamp, cam)
                 hud.alpha_composite(ovl)
                 ovl = hud
-            lg = logo(96)
-            ovl.alpha_composite(lg, (SAFE_X0 + 10, SAFE_Y1 - lg.height - 10))
+            if not a.no_bait_logo:
+                lg = logo(96)
+                ovl.alpha_composite(lg, (SAFE_X0 + 10, SAFE_Y1 - lg.height - 10))
             ovl_path = os.path.join(tmp, f"bait_ovl{si}.png")
             ovl.save(ovl_path)
             dur = en - st
@@ -271,7 +321,10 @@ def main():
 
         total = cut + len(a.shot) * a.shot_s + a.end_s
         wav = os.path.join(tmp, "sfx.wav")
-        synth_audio(wav, cut, total)
+        if a.foley:
+            foley_audio(wav, cut, total, a.foley, a.ambience, tmp)
+        else:
+            synth_audio(wav, cut, total)
 
         out = a.out + "_captioned.mp4"
         subprocess.run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-i", bait, "-i", prod, "-i", wav,

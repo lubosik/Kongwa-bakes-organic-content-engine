@@ -1,0 +1,2 @@
+ElevenLabs sound effects and speech, generated 29 Oct 2026 for the HW-04 Halloween prank (flow ju5AMmAQlSBf5ASd5kvP). Own generated assets, no third-party audio.
+uncle-hello: voice "Ugochukwu" (ElevenLabs library), eleven_v4.

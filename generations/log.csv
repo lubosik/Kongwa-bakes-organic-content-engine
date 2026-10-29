@@ -12,3 +12,5 @@ date,concept,model,prompt,references_used,credits,pass_fail,reason
 2026-10-29,HW-04 B uncle comes out,kling3_0,"start_image = A last frame; uncle opens door, looks around, kid sneaks in behind him, 9:16 10s",A last frame,12.5,pending QA,""
 2026-10-29,HW-04 B v2 uncle back turned,kling3_0,"start_image A last frame; explicit timeline, kid fully inside before uncle turns",A last frame,12.5,pending QA,"v1 failed: uncle turned while kid was still sneaking in"
 2026-10-29,HW-04 C v2 kitchen corner cam,kling3_0,"kitchen cam; ghost crouched beside doorway out of uncle sightline; jumps as he steps in",none,6.25,pending QA,"v1 failed: ghost visible standing in the doorway"
+2026-10-29,HW-04 B v3 uncle goes right,kling3_0,"start_image A last frame; uncle turns right away from bin, kid only moves once he is far and turned",A last frame,12.5,pending QA,"v2 failed: uncle walked past the kid"
+2026-10-29,HW-04 foley,elevenlabs eleven_text_to_sound_v2 + eleven_v4 (voice Ugochukwu),"8 sound effects + 1 line, see audio/sfx/halloween/SOURCES.txt",none,0 (ElevenLabs ~0.03 USD),pass,"own generated audio"
